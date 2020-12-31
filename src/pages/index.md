@@ -41,7 +41,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Giao Hang Den Tan Nha
-    subtitle: from $149.99
+    subtitle: Mien Phi
     image: images/promo.jpg
     cta:
       title: Discover
