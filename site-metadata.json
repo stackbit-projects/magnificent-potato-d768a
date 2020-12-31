@@ -42,5 +42,6 @@
         }
     ],
     "title": "Planty",
-    "logo_dark": "images/logo_fof_vietnam_dark.png"
+    "logo_dark": "images/logo_fof_vietnam_dark.png",
+    "logo_light": "images/oceanic-planet.png"
 }
