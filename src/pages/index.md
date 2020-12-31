@@ -11,7 +11,7 @@ sections:
       - title: 'Xem Sản Phẩm '
         url: /store
         arrow: true
-        style: secondary
+        style: primary
   - type: featured_products_section
     section_id: best_sellers_section
     title: San Pham Chinh
