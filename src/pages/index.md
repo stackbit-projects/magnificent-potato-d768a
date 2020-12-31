@@ -36,7 +36,7 @@ sections:
         text: Mat Ong Ngon Nhat TPHCM!!!!
       - author:
           name: Nguyen Hoang Thien Nhan
-          location: 'VA, USA'
+          location: C
         text: 'Nhan vien tan tinh, chu dao. San pham chat luong cao '
       - text: lorem-ipsum
         author:
