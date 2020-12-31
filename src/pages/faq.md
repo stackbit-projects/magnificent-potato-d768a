@@ -51,7 +51,7 @@ sections:
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
-    address: 'Địa chỉ: 65/1 Nguyễn Minh Hoàng, Phường 12, Quận Tân Bình, TP Hồ Chí Minh'
+    address: '65/1 Nguyễn Minh Hoàng, Phường 12, Quận Tân Bình, TP Hồ Chí Minh'
     phone: +1-202-555-0112
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
