@@ -14,7 +14,7 @@ sections:
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Best sellers
+    title: San Pham Chinh
     icon: true
     light_title: false
     featured_products:
