@@ -8,7 +8,7 @@ sections:
     background_image_opacity: 80
     content: '# **Chào Mừng Bạn Đến Với CTY TNHH Hoa Yêu Thương**'
     actions:
-      - title: Xem Sản Phẩm
+      - title: 'Xem Sản Phẩm '
         url: /store
         arrow: true
         style: primary
