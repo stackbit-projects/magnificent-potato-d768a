@@ -4,7 +4,7 @@ price: '18.90'
 title: Mật Ong Chai 1l
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/honey_1l_thumbnail.png
-default_original_image: images/plant7-lg.jpg
+default_original_image: images/honey_1l.jpg
 order: 7
 category: src/pages/category/bigplants.md
 section: Store
