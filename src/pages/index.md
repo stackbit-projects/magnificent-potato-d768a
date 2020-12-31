@@ -36,7 +36,7 @@ sections:
         text: Mat Ong Ngon Nhat TPHCM!!!!
       - author:
           name: Nguyen Hoang Thien Nhan
-          location: Edmonton
+          location: ' Edmonton'
         text: 'Nhan vien tan tinh, chu dao. San pham chat luong cao '
   - type: promotion_section
     section_id: promotion_section
