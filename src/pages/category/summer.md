@@ -1,6 +1,6 @@
 ---
 title: ''
-order: 4
+order: 0
 section: Store
 template: category
 ---
