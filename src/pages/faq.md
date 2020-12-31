@@ -54,6 +54,6 @@ sections:
     address: '65/1 Nguyễn Minh Hoàng, Phường 12, Quận Tân Bình, TP Hồ Chí Minh'
     phone: 0938291799 - 090 6805799
     email: khachhang.fofvietnam@gmail.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://goo.gl/maps/21fagNop7ABZPtdC8'
 template: advanced
 ---
