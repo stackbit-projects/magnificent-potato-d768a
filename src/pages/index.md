@@ -37,7 +37,7 @@ sections:
       - author:
           name: Major Payne
           location: 'VA, USA'
-        text: 'Nhan vien tan tinh, chu dao. '
+        text: 'Nhan vien tan tinh, chu dao. San pham chat luong cao '
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
