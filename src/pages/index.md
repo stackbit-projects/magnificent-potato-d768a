@@ -35,7 +35,7 @@ sections:
           location: TP.HCM
         text: Mat Ong Ngon Nhat TPHCM!!!!
       - author:
-          name: Major Payne
+          name: Nguyen Hoang Thien Nhan
           location: 'VA, USA'
         text: 'Nhan vien tan tinh, chu dao. San pham chat luong cao '
   - type: promotion_section
