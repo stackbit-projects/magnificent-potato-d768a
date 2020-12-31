@@ -3,7 +3,7 @@ id: '3'
 price: '150.00'
 title: Combo Phúc Lộc Thọ
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/plant3.jpg
+default_thumbnail_image: images/combo_phuc_loc_tho_thumbnail.png
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
