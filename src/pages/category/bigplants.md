@@ -1,5 +1,5 @@
 ---
-title: Đặc Biệt
+title: Mật Ong
 order: 1
 section: Store
 template: category
