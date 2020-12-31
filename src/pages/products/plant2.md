@@ -4,7 +4,7 @@ price: '99.00'
 title: Đông Trùng Hạ Thảo 5g
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/dong_trung_ha_thao_thumbnail.png
-default_original_image: images/plant2-lg.jpg
+default_original_image: images/dong_trung_ha_thao.jpg
 order: 2
 category: src/pages/category/cactuses.md
 section: Store
