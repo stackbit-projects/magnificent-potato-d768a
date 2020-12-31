@@ -3,7 +3,7 @@ title: Home
 white_header: true
 sections:
   - type: hero_section
-    section_id: hinh_nen_1
+    section_id: Muc
     background_image: images/bee_background_image.jpg
     background_image_opacity: 75
     content: '# **Chào Mừng Bạn Đến Với CTY TNHH Hoa Yêu Thương**'
