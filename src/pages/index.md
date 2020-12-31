@@ -33,7 +33,7 @@ sections:
       - author:
           name: John Dope
           location: 'Colorado, USA'
-        text: 'Mat Ong Ngon Nhat '
+        text: Mat Ong Ngon Nhat TPHCM
       - author:
           name: Major Payne
           location: 'VA, USA'
