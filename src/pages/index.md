@@ -32,7 +32,7 @@ sections:
     testimonials:
       - author:
           name: Le Nguyen Yen Nhi
-          location: TP.HCM
+          location: ' TP.HCM'
         text: Mat Ong Ngon Nhat TPHCM!!!!
       - author:
           name: Nguyen Hoang Thien Nhan
