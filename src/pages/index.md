@@ -32,7 +32,7 @@ sections:
     testimonials:
       - author:
           name: Le Nguyen Yen Nhi
-          location: 'Colorado, USA'
+          location: TP.HCM
         text: Mat Ong Ngon Nhat TPHCM!!!!
       - author:
           name: Major Payne
