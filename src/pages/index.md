@@ -31,7 +31,7 @@ sections:
     section_id: testimonials_section
     testimonials:
       - author:
-          name: John Dope
+          name: Le Nguyen Yen Nhi
           location: 'Colorado, USA'
         text: Mat Ong Ngon Nhat TPHCM!!!!
       - author:
