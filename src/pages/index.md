@@ -40,7 +40,7 @@ sections:
         text: 'Nhan vien tan tinh, chu dao. San pham chat luong cao '
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Giao Hang Den Tan Nha
     subtitle: from $149.99
     image: images/promo.jpg
     cta:
