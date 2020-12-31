@@ -38,6 +38,10 @@ sections:
           name: Nguyen Hoang Thien Nhan
           location: 'VA, USA'
         text: 'Nhan vien tan tinh, chu dao. San pham chat luong cao '
+      - text: lorem-ipsum
+        author:
+          name: lorem-ipsum
+          location: lorem-ipsum
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
