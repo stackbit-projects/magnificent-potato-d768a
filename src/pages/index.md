@@ -44,7 +44,7 @@ sections:
     subtitle: Mien Phi
     image: images/pollinating-bee-.jpg
     cta:
-      title: Discover
+      title: Xem Thêm
       url: /store
       style: secondary
 template: home
