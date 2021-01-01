@@ -13,7 +13,7 @@ section: Store
 template: product
 ---
 
-# **Mật Ong Chai 1l**# 
+# **Đông Trùng Hạ Thảo 5g**# 
 ###### Thành Phần: 100% mật ong rừng nguyên chất
 ###### Hướng dẫn sử dụng: Dùng để pha chế đồ uống, ướp gia vị khi chế biến các món ăn, chăm sóc da
 ###### Bảo quản: Đậy kín để nơi thoáng mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời. Không để mật ong vào tủ lạnh
