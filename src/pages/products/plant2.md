@@ -14,7 +14,9 @@ template: product
 ---
 
 # **Đông Trùng Hạ Thảo 5g**# 
-###### Thành Phần: 100% mật ong rừng nguyên chất
-###### Hướng dẫn sử dụng: Dùng để pha chế đồ uống, ướp gia vị khi chế biến các món ăn, chăm sóc da
-###### Bảo quản: Đậy kín để nơi thoáng mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời. Không để mật ong vào tủ lạnh
-###### Cảnh báo: Không sử dụng mật ong cho trẻ dưới 1 tuổi và các trường hợp được khuyến cáo không nên dùng mật ong
+###### Công dụng: Thanh lọc, giải độc và điều trị chứng táo bón; giúp ăn ngon, ngủ yên, giảm căng thẳng, mệt mỏi; giảm lượng mỡ và đường trong máu, chống xơ vữa mạch máu, giúp ổn định huyết áp cho những người bị cao huyết áp; bảo vệ và hỗ trợ các cơ quan: Tim, Gan, Phổi, Thận; Ức chế sự phát triển tế bào ung thư, hỗ trợ điều trị tiểu đường 
+###### Thành Phần: 17 axit amin; các vitamin A, B2, E, K cùng những nguyên tố vi lượng: K, Na, Ca, Mg, Al, Fe, Zn; nhóm hoạt chất HEAA (Hydroxy-Ethyl-Adenosine-Analogs); các chất Cordiceptic acid, Cordycepin, Adenosine, Hydroxyethyl-Adenosine và một số dưỡng chất khác
+###### Tiêu chuẩn: Theo tiêu chuẩn Châu Âu do Bộ Y Tế xác nhận
+###### Liều dùng: 3-5 sợi, hầm với 300ml nước sôi, uống trong ngày và ăn luôn sợi
+###### Thận trọng: Phụ nữ mang thai và trẻ em dưới 12 tuổi
+###### Bảo quản: Để nơi khô ráo, dưới 30 độ và trong tối để không bị ánh sáng làm giảm hàm lượng dưỡng chất 
