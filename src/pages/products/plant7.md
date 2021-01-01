@@ -11,6 +11,8 @@ section: Store
 template: product
 ---
 
-# Sed consectetur
-
-Sed consectetur eleifend neque. Morbi fringilla velit neque, quis aliquet diam rutrum eget. Praesent dui leo, iaculis non auctor sed, accumsan at felis. Suspendisse eu pretium justo. Curabitur et velit quis justo elementum iaculis. Fusce sed tortor id diam rhoncus accumsan. In cursus sagittis eros non congue.
+# **Mật Ong Chai 1l**# 
+###### Thành Phần: 100% mật ong rừng nguyên chất
+###### Hướng dẫn sử dụng: Dùng để pha chế đồ uống, ướp gia vị khi chế biến các món ăn, chăm sóc da
+###### Bảo quản: Đậy kín để nơi thoáng mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời. Không để mật ong vào tủ lạnh
+###### Cảnh báo: Không sử dụng mật ong cho trẻ dưới 1 tuổi và các trường hợp được khuyến cáo không nên dùng mật ong
