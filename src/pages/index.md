@@ -42,7 +42,7 @@ sections:
     section_id: promotion_section
     title: Giao Hang Den Tan Nha
     subtitle: Mien Phi
-    image: images/magical-anemone.jpg
+    image: images/pollinating-bee-.jpg
     cta:
       title: Discover
       url: /store
