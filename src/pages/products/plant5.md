@@ -2,9 +2,7 @@
 id: '5'
 price: 600.000đ
 title: Mật Ong Chai 500ml
-description: >-
-  Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
-  volutpat massa dolor id purus.
+description: 'Thành Phần: 100% mật ong rừng nguyên chất'
 default_thumbnail_image: images/honey_500ml_thumbnail.png
 default_original_image: images/honey_500ml.jpg
 featured: true
