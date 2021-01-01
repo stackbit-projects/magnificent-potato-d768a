@@ -6,7 +6,7 @@ sections:
     section_id: section_1
     background_image: images/bee_background_image.jpg
     background_image_opacity: 75
-    content: '## **Chào Mừng Bạn Đến Với CTY TNHH Hoa Yêu Thương**'
+    content: '# **Chào Mừng Bạn Đến Với CTY TNHH Hoa Yêu Thương**'
     actions:
       - title: Xem Sản Phẩm
         url: /store
