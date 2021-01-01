@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: 450.000đ
 title: Mật Ong Chai 350ml
 description: 'Thành Phần: 100% mật ong rừng nguyên chất'
 default_thumbnail_image: images/honey_350ml_thumbnail.png
