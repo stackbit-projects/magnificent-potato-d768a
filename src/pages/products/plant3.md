@@ -12,6 +12,8 @@ section: Store
 template: product
 ---
 
-# Curabitur eu tempor
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.
+# **Mật Ong Chai 500ml**# 
+###### Thành Phần: 100% mật ong rừng nguyên chất
+###### Hướng dẫn sử dụng: Dùng để pha chế đồ uống, ướp gia vị khi chế biến các món ăn, chăm sóc da
+###### Bảo quản: Đậy kín để nơi thoáng mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời. Không để mật ong vào tủ lạnh
+###### Cảnh báo: Không sử dụng mật ong cho trẻ dưới 1 tuổi và các trường hợp được khuyến cáo không nên dùng mật ong
