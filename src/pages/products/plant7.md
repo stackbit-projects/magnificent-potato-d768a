@@ -2,7 +2,7 @@
 id: '7'
 price: 1.200.000đ
 title: Mật Ong Chai 1l
-description: Fusce sed tortor id diam rhoncus accumsan.
+description: 'Thành Phần: 100% mật ong rừng nguyên chất'
 default_thumbnail_image: images/honey_1l_thumbnail.png
 default_original_image: images/honey_1l.jpg
 order: 7
