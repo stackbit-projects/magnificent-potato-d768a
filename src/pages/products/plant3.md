@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: '150.00'
+price: 900.000đ
 title: Combo Phúc Lộc Thọ
 description: 'Bao gồm: 3 chai 200ml mật ong rừng nguyên chất 100% '
 default_thumbnail_image: images/combo_phuc_loc_tho_thumbnail.png
