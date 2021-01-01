@@ -42,7 +42,7 @@ sections:
     section_id: promotion_section
     title: Giao Hang Den Tan Nha
     subtitle: Mien Phi
-    image: images/promo.jpg
+    image: images/8a4e7e38dbc202c653a3a0af38732eec.jpg
     cta:
       title: Discover
       url: /store
