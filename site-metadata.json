@@ -42,5 +42,6 @@
     ],
     "title": "Planty",
     "logo_light": "images/neat-strawberry.png",
-    "logo_dark": "images/best-aspen.png"
+    "logo_dark": "images/best-aspen.png",
+    "bg_image_secondary": "images/parallel-mahogany.png"
 }
