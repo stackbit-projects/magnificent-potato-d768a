@@ -1,6 +1,6 @@
 ---
 id: '7'
-price: '18.90'
+price: 1.200.000đ
 title: Mật Ong Chai 1l
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/honey_1l_thumbnail.png
