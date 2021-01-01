@@ -40,7 +40,7 @@
         },
         {
             "title": "Blog",
-            "url": "lorem-ipsum",
+            "url": "blog",
             "style": "primary",
             "arrow": false,
             "type": "action"
