@@ -2,7 +2,7 @@
 id: '2'
 price: '99.00'
 title: Đông Trùng Hạ Thảo 5g
-description: Tăng cường hệ miễn dịch
+description: 'Tăng cường hệ miễn dịch, hộ'
 default_thumbnail_image: images/dong_trung_ha_thao_thumbnail.png
 default_original_image: images/dong_trung_ha_thao.jpg
 order: 2
