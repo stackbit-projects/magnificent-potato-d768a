@@ -12,8 +12,8 @@ section: Store
 template: product
 ---
 
-# **Mật Ong Chai 500ml**# 
-###### Thành Phần: 100% mật ong rừng nguyên chất
+# **Combo Phúc Lộc Thọ**# 
+###### Thành Phần: 3 chai 200ml mật ong rừng nguyên chất 100%
 ###### Hướng dẫn sử dụng: Dùng để pha chế đồ uống, ướp gia vị khi chế biến các món ăn, chăm sóc da
 ###### Bảo quản: Đậy kín để nơi thoáng mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời. Không để mật ong vào tủ lạnh
 ###### Cảnh báo: Không sử dụng mật ong cho trẻ dưới 1 tuổi và các trường hợp được khuyến cáo không nên dùng mật ong
