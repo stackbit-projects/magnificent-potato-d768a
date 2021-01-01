@@ -1,6 +1,6 @@
 ---
 id: '2'
-price: '99.00'
+price: 450.000đ
 title: Đông Trùng Hạ Thảo 5g
 description: >-
   Giúp tăng cường hệ miễn dịch, hỗ trợ điều trị ung thư, cải thiện việc tuần
