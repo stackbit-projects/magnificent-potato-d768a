@@ -4,7 +4,7 @@ price: '99.00'
 title: Đông Trùng Hạ Thảo 5g
 description: >-
   Giúp tăng cường hệ miễn dịch, hỗ trợ điều trị ung thư, cải thiện việc tuần
-  hoàn máu và khả năng sinh lý, làm châ
+  hoàn máu và khả năng sinh lý, làm chậm quá trình lão hóa và giúp đẹp da
 default_thumbnail_image: images/dong_trung_ha_thao_thumbnail.png
 default_original_image: images/dong_trung_ha_thao.jpg
 order: 2
