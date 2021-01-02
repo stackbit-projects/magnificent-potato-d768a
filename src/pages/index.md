@@ -64,6 +64,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        image: images/thumb-up.png
     type: bulletpoints_section
   - type: promotion_section
     section_id: promotion_section
