@@ -33,7 +33,7 @@ sections:
           Tất cả sản phẩm của FOF đều đều được đóng gói cẩn thận với tem niêm
           phong để chống hàng giả.
   - type: contact_section
-    image: images/bee_background_image.jpg
+    image: images/8a4e7e38dbc202c653a3a0af38732eec.jpg
     section_id: contact_section
     address: '65/1 Nguyễn Minh Hoàng, Phường 12, Quận Tân Bình, TP Hồ Chí Minh'
     phone: 0938291799 - 090 6805799
