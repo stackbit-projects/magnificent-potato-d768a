@@ -60,6 +60,7 @@ sections:
         description: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        image: images/pngkit_free-shipping-png_9706789.png
     type: bulletpoints_section
   - type: promotion_section
     section_id: promotion_section
