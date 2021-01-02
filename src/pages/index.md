@@ -38,7 +38,7 @@ sections:
       - title: CAM KẾT
         description: Hoàn tiền 200% nếu sản phẩm không đạt yêu cầu
         image: images/ClipartKey_401520.png
-      - title: lorem-ipsum
+      - title: ĐÓNG GÓI
         description: >-
           ## Lorem ipsum
 
