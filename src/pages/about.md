@@ -23,7 +23,7 @@ sections:
     subtitle: from $149.99
     image: images/great-octopus.jpg
     cta:
-      title: Discover
+      title: Xem Thêm
       url: /store
       style: primary
 template: advanced
