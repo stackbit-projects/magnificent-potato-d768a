@@ -43,7 +43,7 @@ sections:
           Nếu bạn không chắc chắn trước khi mua sản phẩm của FOF và khách hàng
           của FOF có vấn đề với sản phẩm đã mua, chúng tôi hoan nghênh tất cả
           đóng góp và ý kiến của khách hàng! Vui lòng liên lạc FOF. FOF cam kết
-          hoàn tiền 200% nếu sản phẩm không đạt yêu cầu
+          hoàn tiền 200% nếu sản phẩm không đạt yêu cầu.
       - question: Làm sao để nhận biết hàng FOF chính hiệu?
         answer: >-
           Tất cả sản phẩm của FOF đều đều được đóng gói cẩn thận với tem niêm
