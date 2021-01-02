@@ -27,12 +27,6 @@ sections:
     featured_categories:
       - src/pages/category/bigplants.md
       - src/pages/category/cactuses.md
-  - section_id: lorem-ipsum
-    address: lorem-ipsum
-    phone: lorem-ipsum
-    email: lorem-ipsum
-    mapUrl: lorem-ipsum
-    type: contact_section
   - type: promotion_section
     section_id: promotion_section
     title: Giao Hàng Toàn Quốc
