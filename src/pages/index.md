@@ -50,14 +50,14 @@ sections:
           phong để chống hàng giả.
     type: faq_section
   - section_id: lorem-ipsum
-    bulletpoints: []
-    type: bulletpoints_section
-  - section_id: lorem-ipsum
     address: lorem-ipsum
     phone: lorem-ipsum
     email: lorem-ipsum
     mapUrl: lorem-ipsum
     type: contact_section
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
   - type: promotion_section
     section_id: promotion_section
     title: Giao Hàng Toàn Quốc
