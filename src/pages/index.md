@@ -51,6 +51,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        image: images/ClipartKey_401520.png
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
