@@ -30,17 +30,8 @@ sections:
           hoàn tiền 200% nếu sản phẩm không đạt yêu cầu.
       - question: Làm sao để nhận biết hàng FOF chính hiệu?
         answer: >-
-          Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
-          designer a couple of months ago. <br /><br /> Q: Why did you build a
-          theme for Stackbit? <br /> A: We believe in Stackbit’s promise of
-          opening up the JAMstack to more developers. Plus, we trust these
-          folks. [Read more about Stackbit](http://bit.ly/2YAvGix). <br /><br />
-          Q: How many people work at Snipcart? <br /> A: Not a lot! We’re a
-          small, bootstrapped team of eight human beings. Michael might be a
-          robot, though. <br /><br /> Q: Why is Snipcart based in Québec City?
-          <br /> A: Have you been here? It’s beaaautiful! <br /><br /> Q: What’s
-          the meaning of life? <br /> A: We’re not quite sure. But building
-          useful products with people we love feels meaningful enough.
+          Tất cả sản phẩm của FOF đều đều được đóng gói cẩn thận với tem niêm
+          phong để chống hàng giả.
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
