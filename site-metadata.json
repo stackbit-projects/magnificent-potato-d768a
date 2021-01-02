@@ -24,7 +24,7 @@
     },
     "main_menu": [
         {
-            "title": "Store",
+            "title": "Cửa Hàng",
             "url": "/store",
             "style": "link"
         },
