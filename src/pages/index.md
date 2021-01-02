@@ -27,7 +27,7 @@ sections:
     featured_categories:
       - src/pages/category/bigplants.md
       - src/pages/category/cactuses.md
-  - section_id: lorem-ipsum
+  - section_id: Tại sao nên chọn FOF
     questions: []
     type: faq_section
   - type: promotion_section
