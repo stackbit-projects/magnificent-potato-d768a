@@ -31,7 +31,6 @@ sections:
     bulletpoints:
       - title: SẢN PHẨM CHẤT LƯỢNG
         description: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
-        image: images/majestic-potato.png
       - title: SHIP HÀNG
         description: Miễn phí vận chuyển toàn quốc 24/7
         image: images/pngkit_free-shipping-png_9706789.png
