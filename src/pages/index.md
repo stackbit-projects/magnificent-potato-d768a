@@ -27,17 +27,6 @@ sections:
     featured_categories:
       - src/pages/category/bigplants.md
       - src/pages/category/cactuses.md
-  - type: testimonials_section
-    section_id: testimonials_section
-    testimonials:
-      - author:
-          name: Le Nguyen Yen Nhi
-          location: ' TP.HCM'
-        text: Mat Ong Ngon Nhat TPHCM!!!!
-      - author:
-          name: Nguyen Hoang Thien Nhan
-          location: ' Edmonton'
-        text: 'Nhan vien tan tinh, chu dao. San pham chat luong cao '
   - section_id: lorem-ipsum
     address: lorem-ipsum
     phone: lorem-ipsum
