@@ -27,6 +27,9 @@ sections:
     featured_categories:
       - src/pages/category/bigplants.md
       - src/pages/category/cactuses.md
+  - section_id: lorem-ipsum
+    questions: []
+    type: faq_section
   - type: promotion_section
     section_id: promotion_section
     title: Giao Hàng Toàn Quốc
@@ -36,8 +39,5 @@ sections:
       title: Xem Thêm
       url: /store
       style: secondary
-  - section_id: lorem-ipsum
-    questions: []
-    type: faq_section
 template: home
 ---
