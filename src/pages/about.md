@@ -19,7 +19,7 @@ sections:
         image: images/nan_talk.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: Miễn phí vận chuyển toàn quốc 24/7
+    title: Miễn hí vận chuyển toàn quốc 24/7
     subtitle: from $149.99
     image: images/great-octopus.jpg
     cta:
