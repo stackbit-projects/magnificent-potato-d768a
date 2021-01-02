@@ -29,8 +29,6 @@ sections:
       - src/pages/category/cactuses.md
   - section_id: Tại sao nên chọn FOF
     bulletpoints:
-      - title: Tai sao nen chon FOF
-        description: ''
       - title: dong goi
         description: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
