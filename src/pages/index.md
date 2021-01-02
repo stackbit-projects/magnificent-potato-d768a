@@ -34,6 +34,18 @@ sections:
           Mật ong rừng do FOF Việt Nam đóng gói và phân phối đạt chứng nhận kiểm
           nghiệm an toàn sức khỏe theo hồ sơ số 024065 do Viện Y Tế Công Cộng
           TP.HCM công bố.
+      - question: lorem-ipsum
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: faq_section
   - type: promotion_section
     section_id: promotion_section
