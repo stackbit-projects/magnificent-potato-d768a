@@ -29,7 +29,7 @@ sections:
       - src/pages/category/cactuses.md
   - section_id: Tại sao nên chọn FOF
     questions:
-      - question: Sản phẩm của FOF có đạt tiêu chuẩn không?
+      - question: Sản phẩm của FOF có đáng tin cậy không?
         answer: >-
           ## Lorem ipsum
 
