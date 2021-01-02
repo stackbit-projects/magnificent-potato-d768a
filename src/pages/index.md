@@ -46,16 +46,8 @@ sections:
           hoàn tiền 200% nếu sản phẩm không đạt yêu cầu
       - question: Làm sao để nhận biết hàng FOF chính hiệu?
         answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Tất cả sản phẩm của FOF đều đều được đóng gói cẩn thận với tem niêm
+          phong để chống hàng giả.
     type: faq_section
   - type: promotion_section
     section_id: promotion_section
