@@ -36,7 +36,9 @@ sections:
           TP.HCM công bố.
       - question: Chính sách giao hàng của FOF như thế nào?
         answer: FOF Việt Nam cam kết miễn phí vận chuyển mọi sản phẩm toàn quốc 24/7.
-      - question: 'Nếu như tôi vẫn cảm thấy lo lắng về sản phẩm hoặc '
+      - question: >-
+          Nếu như tôi vẫn cảm thấy lo lắng về sản phẩm hoặc không hài lòng với
+          sản phẩm sau khi sử dụng
         answer: >-
           ## Lorem ipsum
 
