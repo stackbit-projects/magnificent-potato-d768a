@@ -41,7 +41,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Giao Hàng Toàn Quốc
-    subtitle: Mien Phi
+    subtitle: miễn phí 24/7
     image: images/pollinating-bee-.jpg
     cta:
       title: Xem Thêm
