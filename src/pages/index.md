@@ -39,17 +39,7 @@ sections:
         description: Hoàn tiền 200% nếu sản phẩm không đạt yêu cầu
         image: images/ClipartKey_401520.png
       - title: ĐÓNG GÓI
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: Tất cả sản phẩm đều có tem niêm phong
         image: images/thumb-up.png
     type: bulletpoints_section
   - type: promotion_section
