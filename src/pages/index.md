@@ -30,17 +30,7 @@ sections:
   - section_id: Tại sao nên chọn FOF
     bulletpoints:
       - title: lorem-ipsum
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: ''
       - title: dong goi
         description: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
