@@ -40,16 +40,10 @@ sections:
           Nếu như tôi vẫn cảm thấy lo lắng về sản phẩm hoặc không hài lòng với
           sản phẩm sau khi sử dụng
         answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Nếu bạn không chắc chắn trước khi mua sản phẩm của FOF và khách hàng
+          của FOF có vấn đề với sản phẩm đã mua, chúng tôi hoan nghênh tất cả
+          đóng góp và ý kiến của khách hàng! Vui lòng liên lạc FOF. FOF cam kết
+          hoàn tiền 200% nếu sản phẩm không đạt yêu cầu
     type: faq_section
   - type: promotion_section
     section_id: promotion_section
