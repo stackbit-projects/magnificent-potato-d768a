@@ -20,7 +20,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Vận Chuyển Toàn Quốc
-    subtitle: from $149.99
+    subtitle: 'Miễn Phí '
     image: images/great-octopus.jpg
     cta:
       title: Xem Thêm
