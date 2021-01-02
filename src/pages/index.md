@@ -30,17 +30,13 @@ sections:
   - section_id: Tại sao nên chọn FOF
     questions:
       - question: Sản phẩm của FOF có đáng tin cậy không?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          ## Chứng nhận an toàn sức khỏe người tiêu dùng
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Mật ong rừng do FOF Việt Nam đóng gói và phân phối đạt chứng nhận kiểm
+          nghiệm an toàn sức khỏe theo hồ sơ số 024065 do Viện Y Tế Công Cộng
+          TP.HCM công bố.
     type: faq_section
   - type: promotion_section
     section_id: promotion_section
