@@ -29,7 +29,7 @@ sections:
       - src/pages/category/cactuses.md
   - section_id: Tại sao nên chọn FOF
     bulletpoints:
-      - title: dong goi
+      - title: SẢN PHẨM CHẤT LƯỢNG
         description: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
