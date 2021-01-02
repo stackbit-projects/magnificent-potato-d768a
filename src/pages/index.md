@@ -31,9 +31,6 @@ sections:
     questions:
       - question: Sản phẩm của FOF có đáng tin cậy không?
         answer: >
-          ## Chứng nhận an toàn sức khỏe người tiêu dùng
-
-
           Mật ong rừng do FOF Việt Nam đóng gói và phân phối đạt chứng nhận kiểm
           nghiệm an toàn sức khỏe theo hồ sơ số 024065 do Viện Y Tế Công Cộng
           TP.HCM công bố.
