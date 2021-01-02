@@ -29,16 +29,6 @@ sections:
       - src/pages/category/cactuses.md
   - section_id: Tại sao nên chọn FOF
     bulletpoints:
-      - title: dong goi
-        description: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        image: images/majestic-potato.png
-      - title: free shipping
-        description: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        image: images/pngkit_free-shipping-png_9706789.png
       - title: lorem-ipsum
         description: >-
           ## Lorem ipsum
@@ -51,6 +41,16 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+      - title: dong goi
+        description: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        image: images/majestic-potato.png
+      - title: free shipping
+        description: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        image: images/pngkit_free-shipping-png_9706789.png
     type: bulletpoints_section
   - type: promotion_section
     section_id: promotion_section
