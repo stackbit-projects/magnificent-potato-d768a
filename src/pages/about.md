@@ -6,7 +6,9 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Chúng tôi là FOF Vietnam
-    subtitle: Giới thiệu về công ty
+    subtitle: |-
+      Giới thiệu về công ty, về chủ công ty, nhân viên
+      giới thiệu về mục tiêu nhắm tới của FOF
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
