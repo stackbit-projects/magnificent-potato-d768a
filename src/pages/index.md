@@ -51,7 +51,7 @@ sections:
     type: faq_section
   - section_id: Tại sao nên chọn FOF
     bulletpoints:
-      - title: Ta
+      - title: ''
         description: >-
           ## Lorem ipsum
 
