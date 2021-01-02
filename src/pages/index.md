@@ -35,7 +35,7 @@ sections:
       - title: SHIP HÀNG
         description: Miễn phí vận chuyển toàn quốc 24/7
         image: images/pngkit_free-shipping-png_9706789.png
-      - title: lorem-ipsum
+      - title: CAM KẾT
         description: >-
           ## Lorem ipsum
 
