@@ -36,17 +36,7 @@ sections:
         description: Miễn phí vận chuyển toàn quốc 24/7
         image: images/pngkit_free-shipping-png_9706789.png
       - title: CAM KẾT
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: Hoàn tiền 200% nếu sản phẩm không đạt yêu cầu
         image: images/ClipartKey_401520.png
       - title: lorem-ipsum
         description: >-
