@@ -24,10 +24,10 @@ sections:
           Nếu như tôi vẫn cảm thấy lo lắng về sản phẩm hoặc không hài lòng với
           sản phẩm sau khi sử dụng?
         answer: >-
-          [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
-          am I right? Make sure you’re as transparent as possible with your data
-          handling process. Or, if you’re using Snipcart, just refer to [our ToS
-          and DPA](http://bit.ly/2YJwlyt).
+          Nếu bạn không chắc chắn trước khi mua sản phẩm của FOF và khách hàng
+          của FOF có vấn đề với sản phẩm đã mua, chúng tôi hoan nghênh tất cả
+          đóng góp và ý kiến của khách hàng! Vui lòng liên lạc FOF. FOF cam kết
+          hoàn tiền 200% nếu sản phẩm không đạt yêu cầu.
       - question: Rapid-fire questions
         answer: >-
           Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
