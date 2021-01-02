@@ -28,7 +28,19 @@ sections:
       - src/pages/category/bigplants.md
       - src/pages/category/cactuses.md
   - section_id: Tại sao nên chọn FOF
-    questions: []
+    questions:
+      - question: lorem-ipsum
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: faq_section
   - type: promotion_section
     section_id: promotion_section
