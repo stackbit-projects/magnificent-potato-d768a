@@ -33,9 +33,7 @@ sections:
         description: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
         image: images/majestic-potato.png
       - title: SHIP HÀNG
-        description: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        description: Miễn phí vận chuyển toàn quốc 24/7
         image: images/pngkit_free-shipping-png_9706789.png
       - title: lorem-ipsum
         description: >-
