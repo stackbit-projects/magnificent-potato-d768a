@@ -50,12 +50,6 @@ sections:
           phong để chống hàng giả.
     type: faq_section
   - section_id: lorem-ipsum
-    address: lorem-ipsum
-    phone: lorem-ipsum
-    email: lorem-ipsum
-    mapUrl: lorem-ipsum
-    type: contact_section
-  - section_id: lorem-ipsum
     bulletpoints:
       - title: lorem-ipsum
         description: >-
@@ -79,5 +73,11 @@ sections:
       title: Xem Thêm
       url: /store
       style: secondary
+  - section_id: lorem-ipsum
+    address: lorem-ipsum
+    phone: lorem-ipsum
+    email: lorem-ipsum
+    mapUrl: lorem-ipsum
+    type: contact_section
 template: home
 ---
