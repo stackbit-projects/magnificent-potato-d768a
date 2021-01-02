@@ -19,7 +19,7 @@ sections:
         image: images/nan_talk.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Giao hàng tận nhà miễn phí
     subtitle: from $149.99
     image: images/great-octopus.jpg
     cta:
