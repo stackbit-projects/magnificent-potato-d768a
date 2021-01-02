@@ -58,5 +58,8 @@ sections:
       title: Xem Thêm
       url: /store
       style: secondary
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 template: home
 ---
