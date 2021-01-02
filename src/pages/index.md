@@ -29,7 +29,7 @@ sections:
       - src/pages/category/cactuses.md
   - section_id: Tại sao nên chọn FOF
     bulletpoints:
-      - title: lorem-ipsum
+      - title: Tai sao nen chon FOF
         description: ''
       - title: dong goi
         description: >
