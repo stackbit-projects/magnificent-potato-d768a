@@ -30,9 +30,7 @@ sections:
   - section_id: Tại sao nên chọn FOF
     bulletpoints:
       - title: SẢN PHẨM CHẤT LƯỢNG
-        description: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        description: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
         image: images/majestic-potato.png
       - title: free shipping
         description: >
