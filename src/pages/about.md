@@ -20,7 +20,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Giao Hàng Toàn Quốc
-    subtitle: Miễn Phí 24/7
+    subtitle: miễn phí 24/7
     image: images/great-octopus.jpg
     cta:
       title: Xem Thêm
