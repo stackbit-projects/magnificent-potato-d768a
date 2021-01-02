@@ -44,6 +44,18 @@ sections:
           của FOF có vấn đề với sản phẩm đã mua, chúng tôi hoan nghênh tất cả
           đóng góp và ý kiến của khách hàng! Vui lòng liên lạc FOF. FOF cam kết
           hoàn tiền 200% nếu sản phẩm không đạt yêu cầu
+      - question: lorem-ipsum
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: faq_section
   - type: promotion_section
     section_id: promotion_section
