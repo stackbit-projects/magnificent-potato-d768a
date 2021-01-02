@@ -56,17 +56,9 @@ sections:
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
       - title: dong goi
-        description: >-
-          ## Lorem ipsum
-
-
+        description: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
     type: bulletpoints_section
   - type: promotion_section
     section_id: promotion_section
