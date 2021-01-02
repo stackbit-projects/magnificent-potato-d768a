@@ -19,7 +19,7 @@ sections:
         image: images/nan_talk.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: Miễn Phí Vận Chuyển Toàn Quốc
+    title: Vận Chuyển Toàn Quốc
     subtitle: from $149.99
     image: images/great-octopus.jpg
     cta:
