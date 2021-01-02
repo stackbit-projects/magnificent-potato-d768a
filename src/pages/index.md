@@ -29,7 +29,7 @@ sections:
       - src/pages/category/cactuses.md
   - section_id: Tại sao nên chọn FOF
     questions:
-      - question: lorem-ipsum
+      - question: Sản phẩm của FOF có đạt tiêu chuẩn không?
         answer: >-
           ## Lorem ipsum
 
