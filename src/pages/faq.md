@@ -7,8 +7,9 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: Hỗ Trợ
     subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+      Dưới đây là những câu hỏi thường xuyên gặp. Nếu bạn vẫn còn có thắc mắc,
+      vui lòng liên lạc với chúng tôi tại Hotline: 0938291799 - 090 6805799 hoặc
+      email [khachhang.fofvietnam@gmail.com](https://)
   - type: faq_section
     section_id: faq_section
     questions:
