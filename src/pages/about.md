@@ -19,7 +19,7 @@ sections:
         image: images/nan_talk.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: Vận Chuyển Toàn Quốc
+    title: Giao Hàng Toàn Quốc
     subtitle: 'Miễn Phí '
     image: images/great-octopus.jpg
     cta:
