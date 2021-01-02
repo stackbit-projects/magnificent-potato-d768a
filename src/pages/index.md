@@ -40,7 +40,7 @@ sections:
         text: 'Nhan vien tan tinh, chu dao. San pham chat luong cao '
   - type: promotion_section
     section_id: promotion_section
-    title: Giao Hang Den Tan Nha
+    title: Giao Hàng Toàn Quốcmiễn phí 24/7
     subtitle: Mien Phi
     image: images/pollinating-bee-.jpg
     cta:
