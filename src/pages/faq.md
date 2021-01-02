@@ -8,8 +8,8 @@ sections:
     headline: Hỗ Trợ
     subtitle: >-
       Dưới đây là những câu hỏi thường xuyên gặp. Nếu bạn vẫn còn có thắc mắc,
-      vui lòng liên lạc với chúng tôi tại 0938291799 - 090 6805799 hoặc email
-      [khachhang.fofvietnam@gmail.com](https://)
+      vui lòng liên lạc với chúng tôi tại hotline 0938291799 - 090 6805799 hoặc
+      email [khachhang.fofvietnam@gmail.com](https://)
   - type: faq_section
     section_id: faq_section
     questions:
