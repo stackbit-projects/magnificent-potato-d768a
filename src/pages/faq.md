@@ -28,7 +28,7 @@ sections:
           của FOF có vấn đề với sản phẩm đã mua, chúng tôi hoan nghênh tất cả
           đóng góp và ý kiến của khách hàng! Vui lòng liên lạc FOF. FOF cam kết
           hoàn tiền 200% nếu sản phẩm không đạt yêu cầu.
-      - question: Rapid-fire questions
+      - question: Làm sao để nhận biết hàng FOF chính hiệu?
         answer: >-
           Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
           designer a couple of months ago. <br /><br /> Q: Why did you build a
