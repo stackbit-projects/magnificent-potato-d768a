@@ -32,7 +32,7 @@ sections:
       - title: SẢN PHẨM CHẤT LƯỢNG
         description: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
         image: images/majestic-potato.png
-      - title: free shipping
+      - title: SHIP HÀNG
         description: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
