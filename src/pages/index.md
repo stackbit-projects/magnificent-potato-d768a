@@ -49,7 +49,7 @@ sections:
           Tất cả sản phẩm của FOF đều đều được đóng gói cẩn thận với tem niêm
           phong để chống hàng giả.
     type: faq_section
-  - section_id: lorem-ipsum
+  - section_id: Tại sao nên chọn FOF
     bulletpoints:
       - title: lorem-ipsum
         description: >-
