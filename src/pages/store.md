@@ -18,7 +18,7 @@ sections:
     subtitle: Miễn Phí 24/7
     image: images/great-octopus.jpg
     cta:
-      title: Discover
+      title: Xem Thêm
       url: /store
       style: secondary
 template: store
