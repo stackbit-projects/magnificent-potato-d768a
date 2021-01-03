@@ -14,7 +14,7 @@ sections:
       - src/pages/products/plant3.md
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Giao Hàng Tận Nhà
     subtitle: from $149.99
     image: images/great-octopus.jpg
     cta:
