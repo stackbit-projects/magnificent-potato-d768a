@@ -15,7 +15,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Giao Hàng Tận Nhà
-    subtitle: from $149.99
+    subtitle: Miễn Phí 24/7
     image: images/great-octopus.jpg
     cta:
       title: Discover
