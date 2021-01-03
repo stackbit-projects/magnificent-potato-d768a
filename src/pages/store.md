@@ -14,7 +14,7 @@ sections:
       - src/pages/products/plant3.md
   - type: promotion_section
     section_id: promotion_section
-    title: Giao Hàng Tận Nhà
+    title: Giao Hàng Toàn Quốc
     subtitle: Miễn Phí 24/7
     image: images/great-octopus.jpg
     cta:
